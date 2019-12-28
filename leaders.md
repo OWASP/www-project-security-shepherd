@@ -1,2 +1,3 @@
-<!--### Leaders
--->
+### Leaders
+
+* [Sean Duggan](mailto://)
