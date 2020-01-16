@@ -1,56 +1,26 @@
 ---
-
 layout: col-sidebar
 title: OWASP Security Shepherd
-tags: example-tag
-level: 0
+tags: shepherd
+level: 4
 type: tool
-
-auto-migrated: 1
-auto-migrated: 1
-
-auto-migrated: 1
-
 ---
 
+## OWASP Security Shepherd
+OWASP Security Shepherd is a web and mobile application security training platform. Security Shepherd has been designed to foster and improve security awareness among a varied skill-set demographic. The aim of this project is to take AppSec novices or experienced engineers and sharpen their penetration testing skillset to security expert status.
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+## Description
 
-{front matter for this file}
+The OWASP Security Shepherd project enables users to learn or to improve upon existing manual penetration testing skills. This is accomplished by presenting security risk concepts to users in lessons followed by challenges. A lesson provides a user with help in layman terms about a specific security risk, and helps them exploit a text book version of the issue. Challenges include poor security mitigations to vulnerabilities which have left room for users to exploit.  
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+Utilizing the OWASP top ten as a challenge test bed, common security vulnerabilities can be explored and their impact on a system understood. The by-product of this challenge game is the acquired skill to harden a player's own environment from OWASP top ten security risks. The modules have been crafted to provide not only a challenge for a security novice, but security professionals as well.  
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+Shepherd's security risks are delivered through hardened real vulnerabilities that can not be abused to compromise the application or its environment. Shepherd does not simulate security risks so that all and any attack vectors will work, ensuring a real world response.  
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+Security Shepherd is highly configurable. System administrators can tune the project experience to present specific security risk topics or even specific Security Shepherd modules. The array of user and module configuration available allows Shepherd to be used by a single local user, by many in a competitive classroom environment or by hundreds in an online hacking competition.  
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+## Licensing
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+The Security Shepherd project is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.  
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+The Security Shepherd project is distributed in the hope that it will be useful, but without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. See the GNU General Public License for more details. See http://www.gnu.org/licenses/
