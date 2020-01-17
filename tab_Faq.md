@@ -1,5 +1,6 @@
 ---
-title: FAQs
+title: Faq
+displaytext: FAQs
 layout:  null
 tab: true
 order: 3
