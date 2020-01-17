@@ -2,7 +2,7 @@
 
 title: Features
 layout:  null
-tab: true
+tab: 
 order: 2
 tags: shepherd
 
