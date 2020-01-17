@@ -1,9 +1,11 @@
 ---
+
 layout: col-sidebar
 title: OWASP Security Shepherd
 tags: shepherd
 level: 4
 type: tool
+
 ---
 
 ## OWASP Security Shepherd

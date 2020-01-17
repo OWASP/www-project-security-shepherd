@@ -1,10 +1,12 @@
 ---
+
 title: Modes
 displaytext: Play Modes
 layout:  null
 tab: true
 order: 1
 tags: shepherd
+
 ---
 
 ## Layout Options
