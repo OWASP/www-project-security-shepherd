@@ -3,7 +3,7 @@
 title: Modes
 displaytext: Play Modes
 layout:  null
-tab: 
+tab: true
 order: 1
 tags: shepherd
 
