@@ -3,7 +3,7 @@
 title: Faq
 displaytext: FAQs
 layout:  null
-tab: 
+tab: true
 order: 3
 tags: shepherd
 
