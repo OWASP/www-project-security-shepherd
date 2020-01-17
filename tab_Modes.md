@@ -9,6 +9,7 @@ tags: shepherd
 
 ---
 
+<!--
 ## Layout Options
 An administrator user of Security Shepherd can change the layout in which the levels are presented to players. There are three options
 
@@ -23,3 +24,4 @@ When Shepherd has been deployed in the Open Floor mode, a user can access any le
 ## Tournament Mode
 
 When Shepherd has been deployed in the Tournament Mode, a user can access any level that is marked as open by the admin. Modules are sorted into difficulty bands, from least to most difficult. This layout is ideal when Shepherd is being utilised as an open application security competition
+-->
