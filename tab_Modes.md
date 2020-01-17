@@ -1,5 +1,6 @@
 ---
-title: Play Modes
+title: Modes
+displaytext: Play Modes
 layout:  null
 tab: true
 order: 1
