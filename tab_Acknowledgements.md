@@ -2,7 +2,7 @@
 
 title: Acknowledgements
 layout:  null
-tab: 
+tab: true
 order: 4
 tags: shepherd
 
