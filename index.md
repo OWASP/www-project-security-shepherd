@@ -5,6 +5,7 @@ title: OWASP Security Shepherd
 tags: shepherd
 level: 4
 type: tool
+pitch: OWASP Security Shepherd is a web and mobile application security training platform. Security Shepherd has been designed to foster and improve security awareness among a varied skill-set demographic. The aim of this project is to take AppSec novices or experienced engineers and sharpen their penetration testing skillset to security expert status.
 
 ---
 
