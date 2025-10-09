@@ -1,0 +1,28 @@
+audience:
+  - breaker
+leaders:
+  - name: Mark Denihan
+    email: mark.denihan@owasp.org
+    github: markdenihan
+  - name: Sean Duggan
+    github: SeanDuggan
+level: 4
+license:
+  - GPL-3.0
+name: OWASP Security Shepherd
+pitch: OWASP Security Shepherd is a web and mobile application security training platform. Security Shepherd has been designed to foster and improve security
+  awareness among a varied skill-set demographic. The aim of this project is to take AppSec novices or experienced engineers and sharpen their penetration
+  testing skillset to security expert status.
+repositories:
+  - name: www-project-security-shepherd
+    url: https://github.com/OWASP/www-project-security-shepherd
+    description: OWASP Foundation Web Repository
+  - name: SecurityShepherd
+    url: https://github.com/OWASP/SecurityShepherd
+    description: Web and mobile application security training platform
+tags:
+  - shepherd
+  - custom-tag-1
+  - custom-tag-2
+type: tool
+website: https://owasp.org/www-project-security-shepherd
